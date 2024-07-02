@@ -1,0 +1,20 @@
+{
+  "name": "youssef-tarek-mon-thur-5-8-assignment6-01017842129",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "mysql2": "^3.10.1",
+    "sequelize": "^6.37.3"
+  }
+}
