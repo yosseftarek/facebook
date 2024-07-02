@@ -12,6 +12,6 @@ app.use('/users',userRouter)
 app.use('/comments',commentRouter)
 
 
-app.listen(3000, () => console.log(`server is running`))
+app.listen(8080, () => console.log(`server is running`))
 
 
